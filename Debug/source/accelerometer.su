@@ -1,0 +1,3 @@
+../source/accelerometer.c:11:6:Accelerometer_init	8	static
+../source/accelerometer.c:22:6:Accelerometer_read	32	static
+../source/accelerometer.c:34:9:Accelerometer_position	16	static

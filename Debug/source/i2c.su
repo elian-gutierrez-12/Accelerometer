@@ -1,0 +1,4 @@
+../source/i2c.c:16:13:i2c_master_callback	24	static
+../source/i2c.c:27:6:I2C_init	24	static
+../source/i2c.c:38:6:I2C_WriteRegister	48	static
+../source/i2c.c:57:6:I2C_ReadRegisters	48	static
